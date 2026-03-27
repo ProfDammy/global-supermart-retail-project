@@ -40,14 +40,14 @@ Tableau-Retail-Sales-Dashboard
 - Top and bottom performing products
 - Discount vs Profit relationship
 
-![Product Analysis](dashboard_images/product_analysis.png)
+![Product Analysis](dashboard_images/product_performance.png)
 
 ### Regional Sales Analysis
 - Sales and profit by state (map)
 - Regional comparison
 - Sales vs Profit distribution
 
-![Regional Analysis](dashboard_images/regional_analysis.png)
+![Regional Analysis](dashboard_images/regional_sales.png)
 
 ## Tools Used
 - Tableau (Data Visualization)
